@@ -2,234 +2,226 @@
 
 # 👋 Hi, I'm **LXWS**
 
-### 🖥️ IT • 🌐 Networking • 🔧 Hardware • 🎮 Gaming
+### 💻 IT • 🌐 Networks • 🔧 Hardware • 🎮 Gaming
 
-**Learning • Building • Improving**
+I'm currently learning and improving my skills in **IT, networking, hardware and programming**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFE2&center=true&vCenter=true&multiline=false&width=650&lines=IT+%26+Hardware+Enthusiast;Networking+Learner;PC+Building+%26+Troubleshooting;Linux+%26+Gaming+Enthusiast" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFE2&center=true&vCenter=true&width=650&lines=IT+%26+Hardware+Enthusiast;Networking+Learner;PC+Building+%26+Troubleshooting;Linux+%26+Gaming+Enthusiast" />
 
 ---
 
-## 🎯 About Me
+## 🛠️ My Skills
 
-```js
-const LXWS = {
-    interests: [
-        "Computer Hardware",
-        "Networking",
-        "PC Building",
-        "Linux",
-        "Gaming"
-    ],
-
-    programming: {
-        PHP: "0%",
-        Python: "0%",
-        HTML5: "0%"
-    },
-
-    networking: "50%",
-    hardware: "100%",
-
-    currentFocus: [
-        "Networking",
-        "Computer Systems",
-        "Hardware",
-        "Programming Basics"
-    ],
-
-    goal: "Keep learning and improve my IT skills"
-};
-```
-
----
-
-# 🛠️ Technical Skills
-
-## 💻 Programming
+### 💻 Programming
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php" height="60"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="60"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" height="60"/>
+<img src="https://skillicons.dev/icons?i=php" width="70">
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="70">
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="70">
 
 </p>
 
 <p align="center">
 
-🐘 **PHP** — `0%`
-🐍 **Python** — `0%`
-🌐 **HTML5** — `0%`
+🐘 **PHP — 0%**
+🐍 **Python — 0%**
+🌐 **HTML5 — 0%**
 
 </p>
 
 ---
 
-## 🌐 Networking
+### 🌐 IT & Hardware
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux" height="60"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=windows" height="60"/>
+<img src="https://skillicons.dev/icons?i=linux" width="70">
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=windows" width="70">
 
 </p>
 
 <p align="center">
 
-### 🌐 Networking
-
-```text
-██████████░░░░░░░░░░ 50%
-```
+🌐 **Networks — 50%**
+🔧 **Hardware — 100%**
 
 </p>
 
 ---
 
-## 🔧 Hardware
+## 📊 Skill Progress
 
-<p align="center">
+<table align="center">
 
-<img src="https://skillicons.dev/icons?i=windows" height="60"/>
+<tr>
 
-</p>
+<td align="center">
 
-<p align="center">
+### 🐘 PHP
+
+**0%**
+
+░░░░░░░░░░
+
+</td>
+
+<td align="center">
+
+### 🐍 Python
+
+**0%**
+
+░░░░░░░░░░
+
+</td>
+
+<td align="center">
+
+### 🌐 HTML5
+
+**0%**
+
+░░░░░░░░░░
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🌐 Networks
+
+**50%**
+
+█████░░░░░
+
+</td>
+
+<td align="center">
 
 ### 🔧 Hardware
 
-```text
-████████████████████ 100%
-```
+**100%**
+
+██████████
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🎮 Interests
+
+<p align="center">
+
+🖥️ **Computer Hardware**   •  
+🌐 **Networking**   •  
+🎮 **Gaming**
+
+<br>
+
+🔧 **PC Building**   •  
+💻 **IT**   •  
+🐧 **Linux**
 
 </p>
 
 ---
 
-# 📊 My Progress
+## 📚 Currently Learning
 
-<div align="center">
+I'm currently focused on improving my knowledge in:
 
-|     Skill     |        Progress       |
-| :-----------: | :-------------------: |
-|     🐘 PHP    |  `░░░░░░░░░░` **0%**  |
-|   🐍 Python   |  `░░░░░░░░░░` **0%**  |
-|    🌐 HTML5   |  `░░░░░░░░░░` **0%**  |
-| 🌐 Networking |  `█████░░░░░` **50%** |
-|  🔧 Hardware  | `██████████` **100%** |
-
-</div>
-
----
-
-# 🎮 Interests
-
-<div align="center">
-
-🖥️ **Computer Hardware**
 🌐 **Networking**
-🎮 **Gaming**
-🔧 **PC Building**
-🐧 **Linux**
-💻 **IT**
-
-</div>
+🖥️ **Computer Systems**
+🔧 **Hardware**
+💻 **Programming Basics**
 
 ---
 
-# 📚 Currently Learning
+## 🚀 My Goal
 
-```text
-🌐 Networking
-   ██████████░░░░░░░░░░ 50%
-
-🖥️ Computer Systems
-   Learning...
-
-🔧 Hardware
-   ████████████████████ 100%
-
-💻 Programming
-   Getting started...
-```
+> Keep learning, build projects and improve my skills step by step.
 
 ---
 
-# 🚀 Goals
+## 📈 GitHub Stats
 
-* 🌐 Improve my networking knowledge
-* 💻 Learn programming from the basics
-* 🔧 Continue developing my hardware skills
-* 🐧 Improve my Linux knowledge
-* 🖥️ Learn more about computer systems
-* 🚀 Build my own IT projects
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=LXW7X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
 
-# 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LXW7X&layout=compact&theme=tokyonight&hide_border=true" height="170">
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LXW7X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LXW7X&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=LXW7X&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=LXW7X&theme=tokyonight&hide_border=true">
 
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LXW7X&theme=tokyo-night&hide_border=true" />
-
-</div>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 📊 Contribution Graph
 
-<div align="center">
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LXW7X&theme=tokyo-night&hide_border=true">
+
+</p>
+
+---
+
+## 🌐 Socials
+
+<p align="center">
 
 <a href="https://github.com/LXW7X">
-<img src="https://img.shields.io/badge/GitHub-LXW7X-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-LXW7X-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://x.com/YatsukoErwaneki">
-<img src="https://img.shields.io/badge/X%20(Twitter)-YatsukoErwaneki-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X%20(Twitter)-YatsukoErwaneki-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
 
-<img src="https://img.shields.io/badge/Discord-yatsukou-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-yatsukou-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+## 👀 Profile Views
 
-### 💻 Learn • Build • Improve 🚀
+<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=LXW7X&style=for-the-badge&color=00FFE2&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=LXW7X&style=for-the-badge&color=00FFE2&label=PROFILE+VIEWS">
 
-<br><br>
+</p>
 
-⭐ **Thanks for visiting my profile!**
+---
+
+<h3 align="center">
+
+💻 Learn • Build • Improve 🚀
+
+<br>
+
+⭐ Thanks for visiting my profile!
+
+</h3>
 
 </div>

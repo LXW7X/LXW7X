@@ -54,6 +54,18 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 </td>
 
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=cs" width="55">
+
+### C#
+
+**0%**
+
+░░░░░░░░░░
+
+</td>
+
 </tr>
 
 <tr>

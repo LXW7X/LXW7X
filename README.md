@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LXW7X/LXW7X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm LXWS 👋
 
-Here are some ideas to get you started:
+### IT • Networks • Hardware • Gaming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning and improving my skills in IT, networking and hardware.
+
+---
+
+## 🛠️ My Skills
+
+### 💻 Programming
+
+| Skill | Level |
+|---|---:|
+| PHP | 0% |
+| Python | 0% |
+| HTML5 | 0% |
+| HTML6 | 0% |
+
+### 🌐 IT & Hardware
+
+| Skill | Level |
+|---|---:|
+| Networks | 50% |
+| Hardware | 100% |
+
+---
+
+## 📊 Skill Overview
+
+**PHP** ░░░░░░░░░░ 0%
+
+**Python** ░░░░░░░░░░ 0%
+
+**HTML5** ░░░░░░░░░░ 0%
+
+**HTML6** ░░░░░░░░░░ 0%
+
+**Networks** █████░░░░░ 50%
+
+**Hardware** ██████████ 100%
+
+---
+
+## 🎮 Interests
+
+- 🖥️ Computer Hardware
+- 🌐 Networks
+- 🎮 Gaming
+- 🔧 PC Building
+- 💻 IT
+- 🐧 Linux
+
+---
+
+## 📚 Currently Learning
+
+I'm currently focused on improving my knowledge in:
+
+- 🌐 Networking
+- 🖥️ Computer systems
+- 🔧 Hardware
+- 💻 Programming basics
+
+---
+
+## 🌐 Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LXW7X)
+
+</div>

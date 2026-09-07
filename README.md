@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm **LXWS**
 
-### 💻 IT • 🌐 Networks • 🔧 Hardware • 🎮 Gaming
+### 💻 IT • ☁️ Google Cloud • 🔧 Hardware • 🎮 Gaming
 
-I'm currently learning and improving my skills in **IT, networking and hardware**.
+I'm currently learning and improving my skills in **IT, cloud computing and hardware**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFE2&center=true&vCenter=true&width=650&lines=IT+%26+Hardware+Enthusiast;Networking+Learner;PC+Building+%26+Troubleshooting;Linux+%26+Gaming+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFE2&center=true&vCenter=true&width=650&lines=IT+%26+Hardware+Enthusiast;Cloud+%26+Networking+Learner;PC+Building+%26+Troubleshooting;Linux+%26+Gaming+Enthusiast" />
 
 </div>
 
@@ -72,9 +72,9 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/network-wired.svg" width="65">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="65">
 
-### Networks
+### Google Cloud
 
 **50%**
 
@@ -104,7 +104,7 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 <p align="center">
 
-🌐 Networking
+☁️ Google Cloud
 🖥️ Computer Systems
 🔧 Hardware
 🐧 Linux

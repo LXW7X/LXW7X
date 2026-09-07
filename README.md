@@ -12,18 +12,6 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 ---
 
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65">
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="65">
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65">
-
-</p>
-
----
-
 # 📊 Skill Progress
 
 <table align="center">

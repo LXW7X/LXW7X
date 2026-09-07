@@ -1,52 +1,155 @@
-<h1 align="center">👋 Hey, I'm Yatsuko!</h1>
+<div align="center">
+
+# 👋 Hi, I'm **LXWS**
+
+### 💻 IT • ☁️ Cloudflare • 🔧 Hardware • 🎮 Gaming
+
+I'm currently learning and improving my skills in **IT, cloud computing and hardware**.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFE2&center=true&vCenter=true&width=650&lines=IT+%26+Hardware+Enthusiast;Cloud+%26+Networking+Learner;PC+Building+%26+Troubleshooting;Linux+%26+Gaming+Enthusiast" />
+
+</div>
+
+---
+
+## ⚡・SKILL PROGRESS・⚡
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=php" width="55">
+
+### PHP
+
+**0%**
+
+░░░░░░░░░░
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="55">
+
+### Python
+
+**0%**
+
+░░░░░░░░░░
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=html" width="55">
+
+### HTML5
+
+**0%**
+
+░░░░░░░░░░
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=cs" width="65">
+
+### C#
+
+**0%**
+
+░░░░░░░░░░
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="65">
+
+### Cloudflare
+
+**50%**
+
+█████░░░░░
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=raspberrypi" width="65">
+
+### Hardware
+
+**70%**
+
+███████░░░
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🚀・CURRENTLY WORKING ON・🚀
 
 <p align="center">
-  <b>Computer Science • Networking • Hardware</b>
+
+☁️ Cloudflare
+🖥️ Computer Systems
+🔧 Hardware
+🐧 Linux
+🐘 PHP / OOP
+⚙️ Symfony
+⚛️ React
+🐳 Docker
+☁️ Virtualization
+🎨 UX / UI
+📋 Agile / Scrum
+
 </p>
 
 ---
 
-## 🧠 Skills
+## 🌐・CONNECT WITH ME・🌐
 
-### 💻 Programming
+<div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-0%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![HTML6](https://img.shields.io/badge/HTML6-0%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<a href="https://github.com/LXW7X">
+<img src="https://img.shields.io/badge/GitHub-LXW7X-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-### 🌐 Networking
+<a href="https://x.com/YatsukoErwaneki">
+<img src="https://img.shields.io/badge/X%20(Twitter)-YatsukoErwaneki-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
 
-![Networking](https://img.shields.io/badge/Networking-50%25-2496ED?style=for-the-badge&logo=cisco&logoColor=white)
+<img src="https://img.shields.io/badge/Discord-yatsukou-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
-### 🖥️ Hardware
-
-![Hardware](https://img.shields.io/badge/Hardware-70%25-555555?style=for-the-badge&logo=computer&logoColor=white)
-
----
-
-## ☁️ Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-Cloud-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 📊 My Progress
+## 💭・MY MOTTO・💭
 
-| Skill | Level |
-|---|---:|
-| 🖥️ Hardware | **70%** |
-| 🌐 Networking | **50%** |
-| 🐘 PHP | **0%** |
-| 🐍 Python | **0%** |
-| 🌐 HTML5 | **0%** |
-| 🌐 HTML6 | **0%** |
+<div align="center">
+
+### 🖤 **"Don't listen to the haters. Keep going."** 🚀
+
+</div>
 
 ---
 
-<p align="center">
-  🚀 Always learning and improving!
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=LXW7X&style=for-the-badge&color=00FFE2&label=PROFILE+VIEWS">
+
+</div>

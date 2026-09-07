@@ -12,7 +12,7 @@ I'm currently learning and improving my skills in **IT, networking, hardware and
 
 ---
 
-## 🛠️ My Skills
+# 🛠️ My Skills
 
 ### 💻 Programming
 
@@ -102,13 +102,7 @@ I'm currently learning and improving my skills in **IT, networking, hardware and
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white">
-
-<br><br>
-
-**Agile / Scrum**
+**Agile • Scrum**
 
 </p>
 
@@ -224,24 +218,6 @@ I'm currently learning and improving my skills in **IT, networking, hardware and
 
 ---
 
-# 🎮 Interests
-
-<p align="center">
-
-🖥️ **Computer Hardware**   •  
-🌐 **Networking**   •  
-🎮 **Gaming**
-
-<br><br>
-
-🔧 **PC Building**   •  
-💻 **IT**   •  
-🐧 **Linux**
-
-</p>
-
----
-
 # 🚀 Currently Working On
 
 <p align="center">
@@ -260,38 +236,6 @@ I'm currently learning and improving my skills in **IT, networking, hardware and
 📋 Agile / Scrum
 
 </p>
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LXW7X&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LXW7X&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=LXW7X&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LXW7X&theme=tokyo-night&hide_border=true">
-
-</div>
 
 ---
 
@@ -326,7 +270,5 @@ I'm currently learning and improving my skills in **IT, networking, hardware and
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=LXW7X&style=for-the-badge&color=00FFE2&label=PROFILE+VIEWS">
-
-</div>
 
 </div>

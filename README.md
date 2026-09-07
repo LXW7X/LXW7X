@@ -74,7 +74,7 @@ I'm currently learning and improving my skills in **IT, cloud computing and hard
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="65">
 
-### Cloudflare
+### Networks
 
 **50%**
 

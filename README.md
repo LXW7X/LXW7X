@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **LXWS**
 
-### 💻 IT • ☁️ Google Cloud • 🔧 Hardware • 🎮 Gaming
+### 💻 IT • ☁️ Cloudflare • 🔧 Hardware • 🎮 Gaming
 
 I'm currently learning and improving my skills in **IT, cloud computing and hardware**.
 
@@ -72,7 +72,7 @@ I'm currently learning and improving my skills in **IT, cloud computing and hard
 
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="65">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="65">
 
 ### Networks
 
@@ -104,7 +104,7 @@ I'm currently learning and improving my skills in **IT, cloud computing and hard
 
 <p align="center">
 
-☁️ Google Cloud
+☁️ Cloudflare
 🖥️ Computer Systems
 🔧 Hardware
 🐧 Linux

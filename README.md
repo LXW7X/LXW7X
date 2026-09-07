@@ -74,7 +74,7 @@ I'm currently learning and improving my skills in **IT, cloud computing and hard
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="65">
 
-### Google Cloud
+### Networks
 
 **50%**
 

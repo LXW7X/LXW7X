@@ -22,12 +22,6 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 </p>
 
-<p align="center">
-
-🌐 **Networks — 50%**     🔧 **Hardware — 100%**
-
-</p>
-
 ---
 
 # 📊 Skill Progress
@@ -78,7 +72,7 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="55">
+🌐
 
 ### Networks
 

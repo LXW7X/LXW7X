@@ -60,6 +60,18 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 <td align="center">
 
+<img src="https://skillicons.dev/icons?i=cs" width="55">
+
+### C#
+
+**0%**
+
+░░░░░░░░░░
+
+</td>
+
+<td align="center">
+
 <div style="font-size: 55px;">🌐</div>
 
 ### Networks
@@ -79,18 +91,6 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 **100%**
 
 ██████████
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=cs" width="55">
-
-### C#
-
-**0%**
-
-░░░░░░░░░░
 
 </td>
 

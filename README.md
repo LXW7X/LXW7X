@@ -12,7 +12,15 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 ---
 
-# 📊 Skill Progress
+<div align="center">
+
+## ╔══════════════════════════════════╗
+
+##   📊 **SKILL PROGRESS**   
+
+## ╚══════════════════════════════════╝
+
+</div>
 
 <table align="center">
 
@@ -88,7 +96,15 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 ---
 
-# 🚀 Currently Working On
+<div align="center">
+
+## ╔══════════════════════════════════╗
+
+##   🚀 **CURRENTLY WORKING ON**   
+
+## ╚══════════════════════════════════╝
+
+</div>
 
 <p align="center">
 
@@ -108,7 +124,15 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
+
+## ╔══════════════════════════════════╗
+
+##   🌐 **CONNECT WITH ME**   
+
+## ╚══════════════════════════════════╝
+
+</div>
 
 <div align="center">
 
@@ -126,9 +150,13 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 ---
 
-# 💭 My Motto
-
 <div align="center">
+
+## ╔══════════════════════════════════╗
+
+##   💭 **MY MOTTO**   
+
+## ╚══════════════════════════════════╝
 
 ### 🖤 **"Don't listen to the haters. Keep going."** 🚀
 

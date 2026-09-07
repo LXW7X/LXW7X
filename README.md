@@ -12,15 +12,13 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 ---
 
-### 🌐 IT & Hardware
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux" width="65">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65">
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=windows" width="65">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="65">
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" width="65">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65">
 
 </p>
 
@@ -80,7 +78,7 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=linux" width="55">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="55">
 
 ### Networks
 

@@ -4,33 +4,11 @@
 
 ### 💻 IT • 🌐 Networks • 🔧 Hardware • 🎮 Gaming
 
-I'm currently learning and improving my skills in **IT, networking, hardware and programming**.
+I'm currently learning and improving my skills in **IT, networking and hardware**.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFE2&center=true&vCenter=true&width=650&lines=IT+%26+Hardware+Enthusiast;Networking+Learner;PC+Building+%26+Troubleshooting;Linux+%26+Gaming+Enthusiast" />
 
 </div>
-
----
-
-# 🛠️ My Skills
-
-### 💻 Programming
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=php" width="65">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" width="65">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="65">
-
-</p>
-
-<p align="center">
-
-🐘 **PHP — 0%**    🐍 **Python — 0%**    🌐 **HTML5 — 0%**
-
-</p>
 
 ---
 
@@ -49,94 +27,6 @@ I'm currently learning and improving my skills in **IT, networking, hardware and
 <p align="center">
 
 🌐 **Networks — 50%**     🔧 **Hardware — 100%**
-
-</p>
-
----
-
-# 📚 Learning Roadmap
-
-## 🧑‍💻 Object-Oriented Programming
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=php" width="75">
-
-<br>
-
-**PHP • Object-Oriented Programming**
-
-</p>
-
----
-
-## ⚙️ Back-end Framework
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=symfony" width="75">
-
-<br>
-
-**Symfony**
-
-</p>
-
----
-
-## ⚛️ Front-end Framework
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="75">
-
-<br>
-
-**React**
-
-</p>
-
----
-
-## 📋 Project Management
-
-<p align="center">
-
-**Agile • Scrum**
-
-</p>
-
----
-
-## 🖥️ Systems & DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=ubuntu" width="65">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" width="65">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" width="65">
-
-</p>
-
-<p align="center">
-
-🐧 **Ubuntu**   •   🐳 **Docker**   •   🖥️ **Virtualization**
-
-</p>
-
----
-
-## 🎨 UX / UI
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma" width="70">
-
-<br>
-
-**UX / UI • Ergonomics & Design**
 
 </p>
 
@@ -226,7 +116,6 @@ I'm currently learning and improving my skills in **IT, networking, hardware and
 🖥️ Computer Systems
 🔧 Hardware
 🐧 Linux
-💻 Programming
 🐘 PHP / OOP
 ⚙️ Symfony
 ⚛️ React

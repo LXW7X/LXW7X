@@ -4,7 +4,7 @@
 
 ### 💻 IT • 🌐 Networks • 🔧 Hardware • 🎮 Gaming
 
-I'm currently learning and improving my skills in **IT, networking, computer hardware and programming**.
+I'm currently learning and improving my skills in **IT, networking, hardware and programming**.
 
 ---
 
@@ -13,66 +13,60 @@ I'm currently learning and improving my skills in **IT, networking, computer har
 ### 💻 Programming
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,html" />
+
+<img src="https://skillicons.dev/icons?i=php" width="70">
+<img src="https://skillicons.dev/icons?i=python" width="70">
+<img src="https://skillicons.dev/icons?i=html" width="70">
+
 </p>
 
-| Technology |       Level       |
-| :--------: | :---------------: |
-|   🐘 PHP   | ░░░░░░░░░░ **0%** |
-|  🐍 Python | ░░░░░░░░░░ **0%** |
-|  🌐 HTML5  | ░░░░░░░░░░ **0%** |
+<p align="center">
+
+🐘 **PHP — 0%**
+🐍 **Python — 0%**
+🌐 **HTML5 — 0%**
+
+</p>
 
 ---
 
 ### 🌐 IT & Hardware
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
+
+<img src="https://skillicons.dev/icons?i=linux,windows" width="140">
+
 </p>
 
-|     Skill     |        Level        |
-| :-----------: | :-----------------: |
-| 🌐 Networking |  █████░░░░░ **50%** |
-|  🔧 Hardware  | ██████████ **100%** |
+<p align="center">
+
+🌐 **Networks — 50%**
+🔧 **Hardware — 100%**
+
+</p>
 
 ---
 
-## 📊 Skill Overview
+## 📊 Skill Progress
 
-```text
-💻 Programming
-
-🐘 PHP        ░░░░░░░░░░  0%
-🐍 Python     ░░░░░░░░░░  0%
-🌐 HTML5      ░░░░░░░░░░  0%
-
-
-🌐 IT & Hardware
-
-🌐 Networks   █████░░░░░  50%
-🔧 Hardware   ██████████ 100%
-```
+|   💻 Skill  |      📈 Progress      |
+| :---------: | :-------------------: |
+|    🐘 PHP   |  `░░░░░░░░░░` **0%**  |
+|  🐍 Python  |  `░░░░░░░░░░` **0%**  |
+|   🌐 HTML5  |  `░░░░░░░░░░` **0%**  |
+| 🌐 Networks |  `█████░░░░░` **50%** |
+| 🔧 Hardware | `██████████` **100%** |
 
 ---
 
 ## 🎮 Interests
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
-</p>
-
-* 🖥️ Computer Hardware
-* 🌐 Networking
-* 🎮 Gaming
-* 🔧 PC Building
-* 💻 IT
-* 🐧 Linux
+🖥️ **Computer Hardware** • 🌐 **Networking** • 🎮 **Gaming**
+🔧 **PC Building** • 💻 **IT** • 🐧 **Linux**
 
 ---
 
 ## 📚 Currently Learning
-
-I'm currently focused on improving my knowledge in:
 
 🌐 **Networking**
 🖥️ **Computer Systems**
@@ -81,33 +75,34 @@ I'm currently focused on improving my knowledge in:
 
 ---
 
-## 📈 My Progress
+## 🚀 My Goal
 
-> 🚀 Learning step by step and improving every day.
-
-| 💡 Area       | 📊 Progress |
-| :------------ | :---------: |
-| 🐘 PHP        |    **0%**   |
-| 🐍 Python     |    **0%**   |
-| 🌐 HTML5      |    **0%**   |
-| 🌐 Networking |   **50%**   |
-| 🔧 Hardware   |   **100%**  |
+> Keep learning, build projects and improve my skills step by step.
 
 ---
 
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://github.com/LXW7X">
-    <img src="https://img.shields.io/badge/GitHub-LXW7X-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="https://github.com/LXW7X">
+<img src="https://img.shields.io/badge/GitHub-LXW7X-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://x.com/YatsukoErwaneki">
+<img src="https://img.shields.io/badge/X%20(Twitter)-YatsukoErwaneki-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<img src="https://img.shields.io/badge/Discord-yatsukou-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+
 </p>
 
 ---
 
-<div align="center">
+<h3 align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
-</div>
+</h3>
+
 </div>

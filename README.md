@@ -72,7 +72,7 @@ I'm currently learning and improving my skills in **IT, networking and hardware*
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=cisco" width="65">
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/network-wired.svg" width="65">
 
 ### Networks
 

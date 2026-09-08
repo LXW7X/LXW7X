@@ -32,7 +32,7 @@ I'm currently learning and improving my skills in IT, cloud computing and hardwa
 
 ░░░░░░░░░░
 
-</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="65">Cloudflare
+</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="65">Networks
 
 50%
 

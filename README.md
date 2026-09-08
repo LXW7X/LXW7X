@@ -1,110 +1,61 @@
-<div align="center">
+<div align="center">👋 Hi, I'm LXWS
 
-# 👋 Hi, I'm **LXWS**
+💻 IT • ☁️ Cloudflare • 🔧 Hardware • 🎮 Gaming
 
-### 💻 IT • ☁️ Cloudflare • 🔧 Hardware • 🎮 Gaming
+I'm currently learning and improving my skills in IT, cloud computing and hardware.
 
-I'm currently learning and improving my skills in **IT, cloud computing and hardware**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFE2&center=true&vCenter=true&width=650&lines=IT+%26+Hardware+Enthusiast;Cloud+%26+Networking+Learner;PC+Building+%26+Troubleshooting;Linux+%26+Gaming+Enthusiast" /></div>---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFE2&center=true&vCenter=true&width=650&lines=IT+%26+Hardware+Enthusiast;Cloud+%26+Networking+Learner;PC+Building+%26+Troubleshooting;Linux+%26+Gaming+Enthusiast" />
+⚡・SKILL PROGRESS・⚡
 
-</div>
+<table align="center"><tr><td align="center"><img src="https://skillicons.dev/icons?i=php" width="55">PHP
 
----
-
-## ⚡・SKILL PROGRESS・⚡
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=php" width="55">
-
-### PHP
-
-**0%**
+0%
 
 ░░░░░░░░░░
 
-</td>
+</td><td align="center"><img src="https://skillicons.dev/icons?i=python" width="55">Python
 
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=python" width="55">
-
-### Python
-
-**0%**
+0%
 
 ░░░░░░░░░░
 
-</td>
+</td><td align="center"><img src="https://skillicons.dev/icons?i=html" width="55">HTML5
 
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=html" width="55">
-
-### HTML5
-
-**0%**
+0%
 
 ░░░░░░░░░░
 
-</td>
+</td></tr><tr><td align="center"><img src="https://skillicons.dev/icons?i=cs" width="65">C#
 
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=cs" width="65">
-
-### C#
-
-**0%**
+0%
 
 ░░░░░░░░░░
 
-</td>
+</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="65">Cloudflare
 
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="65">
-
-### Networks
-
-**50%**
+50%
 
 █████░░░░░
 
-</td>
+</td><td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="65">Hardware
 
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=raspberrypi" width="65">
-
-### Hardware
-
-**70%**
+70%
 
 ███████░░░
 
-</td>
+</td></tr><tr><td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="65">SQL
 
-</tr>
+0%
 
-</table>
+░░░░░░░░░░
 
----
+</td><td></td>
+<td></td></tr></table>---
 
-## 🚀・CURRENTLY WORKING ON・🚀
+🚀・CURRENTLY WORKING ON・🚀
 
-<p align="center">
-
-☁️ Cloudflare
+<p align="center">☁️ Cloudflare
 🖥️ Computer Systems
 🔧 Hardware
 🐧 Linux
@@ -116,40 +67,20 @@ I'm currently learning and improving my skills in **IT, cloud computing and hard
 🎨 UX / UI
 📋 Agile / Scrum
 
-</p>
+</p>---
 
----
+🌐・CONNECT WITH ME・🌐
 
-## 🌐・CONNECT WITH ME・🌐
-
-<div align="center">
-
-<a href="https://github.com/LXW7X">
+<div align="center"><a href="https://github.com/LXW7X">
 <img src="https://img.shields.io/badge/GitHub-LXW7X-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://x.com/YatsukoErwaneki">
+</a><a href="https://x.com/YatsukoErwaneki">
 <img src="https://img.shields.io/badge/X%20(Twitter)-YatsukoErwaneki-000000?style=for-the-badge&logo=x&logoColor=white">
-</a>
+</a><img src="https://img.shields.io/badge/Discord-yatsukou-5865F2?style=for-the-badge&logo=discord&logoColor=white"></div>---
 
-<img src="https://img.shields.io/badge/Discord-yatsukou-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+💭・MY MOTTO・💭
 
-</div>
+<div align="center">🖤 "Don't listen to the haters. Keep going." 🚀
 
----
+</div>---
 
-## 💭・MY MOTTO・💭
-
-<div align="center">
-
-### 🖤 **"Don't listen to the haters. Keep going."** 🚀
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=LXW7X&style=for-the-badge&color=00FFE2&label=PROFILE+VIEWS">
-
-</div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=LXW7X&style=for-the-badge&color=00FFE2&label=PROFILE+VIEWS"></div>

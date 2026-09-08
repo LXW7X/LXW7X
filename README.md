@@ -1,6 +1,6 @@
 <div align="center">👋 Hi, I'm LXWS
 
-💻 IT • ☁️ Cloudflare • 🔧 Hardware • 🎮 Gaming
+💻 IT • ☁️ Networks • 🔧 Hardware • 🎮 Gaming
 
 I'm currently learning and improving my skills in IT, cloud computing and hardware.
 
@@ -8,54 +8,67 @@ I'm currently learning and improving my skills in IT, cloud computing and hardwa
 
 ⚡・SKILL PROGRESS・⚡
 
-<table align="center"><tr><td align="center"><img src="https://skillicons.dev/icons?i=php" width="55">PHP
+<table align="center"><tr><td align="center"><img src="https://skillicons.dev/icons?i=php" width="55"><br><b>PHP</b>
 
-0%
+<br><br>
 
-░░░░░░░░░░
+<b>0%</b>
 
-</td><td align="center"><img src="https://skillicons.dev/icons?i=python" width="55">Python
+<br>░░░░░░░░░░
 
-0%
+</td><td align="center"><img src="https://skillicons.dev/icons?i=python" width="55"><br><b>Python</b>
 
-░░░░░░░░░░
+<br><br>
 
-</td><td align="center"><img src="https://skillicons.dev/icons?i=html" width="55">HTML5
+<b>0%</b>
 
-0%
+<br>░░░░░░░░░░
 
-░░░░░░░░░░
+</td><td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"><br><b>HTML5</b>
 
-</td></tr><tr><td align="center"><img src="https://skillicons.dev/icons?i=cs" width="65">C#
+<br><br>
 
-0%
+<b>0%</b>
 
-░░░░░░░░░░
+<br>░░░░░░░░░░
 
-</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="65">Networks
+</td></tr><tr><td align="center"><img src="https://skillicons.dev/icons?i=cs" width="65"><br><b>C#</b>
 
-50%
+<br><br>
 
-█████░░░░░
+<b>0%</b>
 
-</td><td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="65">Hardware
+<br>░░░░░░░░░░
 
-70%
+</td><td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="65"><br><b>Networks</b>
 
-███████░░░
+<br><br>
 
-</td></tr><tr><td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="65">SQL
+<b>50%</b>
 
-0%
+<br>█████░░░░░
 
-░░░░░░░░░░
+</td><td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="65"><br><b>Hardware</b>
 
-</td><td></td>
-<td></td></tr></table>---
+<br><br>
+
+<b>70%</b>
+
+<br>███████░░░
+
+</td></tr><tr><td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="65"><br><b>SQL</b>
+
+<br><br>
+
+<b>0%</b>
+
+<br>░░░░░░░░░░
+
+</td><td></td><td></td></tr></table>---
 
 🚀・CURRENTLY WORKING ON・🚀
 
-<p align="center">☁️ Cloudflare
+<p align="center">☁️ Networks
 🖥️ Computer Systems
 🔧 Hardware
 🐧 Linux
